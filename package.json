@@ -1,0 +1,28 @@
+{
+  "name": "collect_no-search_yes",
+  "version": "1.0.0",
+  "description": "收藏夹内浩如烟海，真正使用的次数屈指可数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2234839/collect_no-search_yes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2234839/collect_no-search_yes/issues"
+  },
+  "homepage": "https://github.com/2234839/collect_no-search_yes#readme",
+  "dependencies": {
+    "@types/store": "^2.0.2",
+    "flexsearch": "^0.6.32",
+    "level": "^6.0.0",
+    "level-ts": "^1.12.2",
+    "store": "^2.0.12",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.2"
+  }
+}
